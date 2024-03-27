@@ -1,1 +1,3 @@
 # DUCAT-REACT-JS_-redux-
+This repo has react-redux files practice in ducat...
+(this only has SRC FOLDER)
